@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 # Hi, I'm Devin Maleke 👋
@@ -23,7 +22,7 @@ I'm a **Software Engineer based in Indonesia 🇮🇩**, specializing in iOS dev
 * 🏗️ Interested in **Software Architecture, System Design & Clean Code**
 * 🤖 Exploring **AI-assisted Software Engineering**
 * 🎓 Computer Science graduate from **BINUS University**
-*  Alumni of **Apple Developer Academy @ BINUS**
+*  Alumni of **Apple Developer Academy**
 * 🌏 Always learning, building, and improving
 
 ---
@@ -56,18 +55,6 @@ I'm a **Software Engineer based in Indonesia 🇮🇩**, specializing in iOS dev
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Devin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devinmaleke\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devinmaleke\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
 ## 🧩 Interests
 
 `📱 Mobile Engineering` • `🌐 Web Development` • `🏗️ Software Architecture`
@@ -82,7 +69,7 @@ I'm a **Software Engineer based in Indonesia 🇮🇩**, specializing in iOS dev
 
 Always interested in **software engineering, iOS, web, AI, and interesting engineering problems.**
 
-[GitHub](https://github.com/devinmaleke) • [LinkedIn](#) • Email
+[GitHub](https://github.com/devinmaleke) • [LinkedIn](#) • [Email](mailto:devin.maleke@gmail.com)
 
 <br>
 
