@@ -7,7 +7,7 @@
 Building reliable and scalable software across mobile and web.
 
 [![GitHub](https://img.shields.io/badge/GitHub-devinmaleke-181717?style=flat\&logo=github)](https://github.com/devinmaleke)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin%20Maleke-0A66C2?style=flat\&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devin%20Maleke-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/devin-maleke/)
 
 </div>
 
