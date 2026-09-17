@@ -69,7 +69,7 @@ I'm a **Software Engineer based in Indonesia 🇮🇩**, specializing in iOS dev
 
 Always interested in **software engineering, iOS, web, AI, and interesting engineering problems.**
 
-[GitHub](https://github.com/devinmaleke) • [LinkedIn](#) • [Email](mailto:devin.maleke@gmail.com)
+[GitHub](https://github.com/devinmaleke) • [LinkedIn](https://www.linkedin.com/in/devin-maleke/) • [Email](mailto:devin.maleke@gmail.com)
 
 <br>
 
